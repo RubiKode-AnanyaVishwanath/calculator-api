@@ -4,7 +4,7 @@
   "description": "Basic calculator API using Azure Functions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
